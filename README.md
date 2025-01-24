@@ -32,4 +32,4 @@ chmod +x ./server-stats.sh
 
 ## Project Link
 
-Github: https://roadmap.sh/projects/server-stats
+Project: https://roadmap.sh/projects/server-stats
