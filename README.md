@@ -30,6 +30,6 @@ chmod +x ./server-stats.sh
 
 ```
 
-## Link
+## Project Link
 
-Github: https://github.com/kenedilichi1/server-stats
+Github: https://roadmap.sh/projects/server-stats
