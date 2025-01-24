@@ -29,3 +29,7 @@ chmod +x ./server-stats.sh
 ./server-stats.sh
 
 ```
+
+## Link
+
+Github: https://github.com/kenedilichi1/server-stats
